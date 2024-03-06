@@ -1,0 +1,145 @@
+.c-item{
+    height: 480px;
+    }
+    
+    
+    .c-img{
+        height: 100%;
+        object-fit: cover;
+        filter: brightness(0.6);
+    }
+    
+    .cadastro{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding: 0rem 5rem;
+        transition: all 0.2s 0.7s;
+        overflow: hidden;
+        grid-column: 1 / 2;
+        grid-row: 1 / 2;
+      }
+    
+      form.sign-up-form{
+        opacity: 0;
+        z-index: 1;
+      }
+    
+      .wrap{
+        position: relative;
+        z-index: 0;
+        width: 100%;
+        background: #79b4d3;
+      
+      }
+    
+    .loc2{
+      color:#fff; 
+    
+    }
+    
+    .loc1{
+        position: absolute;
+        left: 1%;
+        top:110px;
+    }
+    
+    .foto{
+    
+        position: absolute;
+          left: 0%;
+          top: 15%
+      }
+    
+      .princ{
+       
+        font-family: 'Belanosima';font-size: 22px;
+        font-size: 15px;
+        line-height: 1.8;
+        font-weight: 400;
+        color: #79b4d3;
+      }
+    
+      .loc{
+        position: absolute;
+          left: 2%;
+          top: 0%
+      
+      }
+
+
+      .loc10{
+        position: absolute;
+        left: 40%;
+        top: 73px;
+        
+      
+      }
+      
+      
+      .loc10 {
+      
+      
+          color:#000;
+        
+      
+      }
+
+
+      .forms1 {
+
+        
+        left: 300px;
+        top: 1000px;
+      }
+
+
+      .fot {
+        color: white;
+      
+        position: absolute;
+      
+        top: 1300px;
+      }
+      
+      
+      .details {
+      
+        position: absolute;
+        left: 100px;
+        top: 10px;
+        font-family: 'Belanosima';
+      }
+      
+      
+      .details1 {
+        position: absolute;
+        left: 103px;
+        top: 100px;
+        font-family: 'Belanosima';
+      }
+      
+      
+      .details2 {
+      
+        position: absolute;
+        top: 130px;
+        left: 820px;
+      
+      
+      }
+      
+      
+      .rod1 {
+      
+        position: absolute;
+        top: 25px;
+        left: 1290px;
+      }
+      
+      .textfot {
+        position: absolute;
+        top: 25px;
+        left: 1410px;
+      }

@@ -1,0 +1,85 @@
+.wrap {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  background: #79b4d3;
+
+}
+
+.loc2{
+  color:#fff; 
+
+}
+
+.loc1{
+  position: absolute;
+    left: 40%;
+    top: 73px;
+
+
+}
+
+
+.loc1 {
+
+
+    color:#000;
+
+
+}
+.foto{
+
+  position: absolute;
+    left: 0%;
+    top: 15%
+}
+
+.loc{
+  position: absolute;
+    left: 2%;
+    top: 0%;
+    filter: brightness(0.6);
+
+}
+.quem-somos{
+  position: absolute;
+  left: 40px;
+  top: 200px;
+  color: #ffff;
+  font-family: 'Belanosima';
+
+}
+
+.objetivo{
+  position: absolute;
+  left: 40px;
+  top: 400px;
+  color: #ffff;
+  font-family: 'Belanosima';
+}
+.como-adoptar{
+ position: absolute;
+  left: 40px;
+  top: 550px;
+  color: #ffff;
+  font-family: 'Belanosima';
+}
+.amora{
+  position: absolute;
+   right: 750px;
+  top: 500px;
+  
+}
+
+.bg-image{
+  filter: brightness(0.6);
+
+}
+
+.videoanimais{
+
+  position: absolute;
+  left: 1080px;
+  top: 300px;
+
+}
